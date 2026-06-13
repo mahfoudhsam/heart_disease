@@ -91,6 +91,8 @@ project/
 │   ├── metrics.py
 │   ├── preprocessing.py
 │   └── utils.py
+    ├──  report.pdf
+
 │
 ├── figures/
 │   ├── target_distribution.png
@@ -98,7 +100,7 @@ project/
 │   ├── model_comparison.png
 │   └── confusion_matrix.png
 │
-├──  report.pdf
+├
 │
 └── README.md
 ```
