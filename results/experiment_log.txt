@@ -1,0 +1,1374 @@
+
+========================================
+
+========================================
+Experiment Run Timestamp: 2026-06-07 06:27:32.505345
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.5450
+Precision Score   : 0.7000
+Recall (Sensitivity): 0.0737
+F1 Balanced Score : 0.1333
+Confusion Matrix Array:
+[[102   3]
+ [ 88   7]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.6300
+Precision Score   : 0.6154
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.6022
+Confusion Matrix Array:
+[[70 35]
+ [39 56]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.6450
+Precision Score   : 0.6818
+Recall (Sensitivity): 0.4737
+F1 Balanced Score : 0.5590
+Confusion Matrix Array:
+[[84 21]
+ [50 45]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 06:30:39.620588
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.5450
+Precision Score   : 0.7000
+Recall (Sensitivity): 0.0737
+F1 Balanced Score : 0.1333
+Confusion Matrix Array:
+[[102   3]
+ [ 88   7]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.6300
+Precision Score   : 0.6154
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.6022
+Confusion Matrix Array:
+[[70 35]
+ [39 56]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.6450
+Precision Score   : 0.6818
+Recall (Sensitivity): 0.4737
+F1 Balanced Score : 0.5590
+Confusion Matrix Array:
+[[84 21]
+ [50 45]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 06:31:23.543246
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.5450
+Precision Score   : 0.7000
+Recall (Sensitivity): 0.0737
+F1 Balanced Score : 0.1333
+Confusion Matrix Array:
+[[102   3]
+ [ 88   7]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.6300
+Precision Score   : 0.6154
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.6022
+Confusion Matrix Array:
+[[70 35]
+ [39 56]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.6450
+Precision Score   : 0.6818
+Recall (Sensitivity): 0.4737
+F1 Balanced Score : 0.5590
+Confusion Matrix Array:
+[[84 21]
+ [50 45]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 06:34:25.254046
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.5450
+Precision Score   : 0.7000
+Recall (Sensitivity): 0.0737
+F1 Balanced Score : 0.1333
+Confusion Matrix Array:
+[[102   3]
+ [ 88   7]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.6300
+Precision Score   : 0.6154
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.6022
+Confusion Matrix Array:
+[[70 35]
+ [39 56]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.6450
+Precision Score   : 0.6818
+Recall (Sensitivity): 0.4737
+F1 Balanced Score : 0.5590
+Confusion Matrix Array:
+[[84 21]
+ [50 45]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 06:41:05.300686
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.5450
+Precision Score   : 0.7000
+Recall (Sensitivity): 0.0737
+F1 Balanced Score : 0.1333
+Confusion Matrix Array:
+[[102   3]
+ [ 88   7]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.6300
+Precision Score   : 0.6154
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.6022
+Confusion Matrix Array:
+[[70 35]
+ [39 56]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.6450
+Precision Score   : 0.6818
+Recall (Sensitivity): 0.4737
+F1 Balanced Score : 0.5590
+Confusion Matrix Array:
+[[84 21]
+ [50 45]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 06:42:58.020934
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.5450
+Precision Score   : 0.7000
+Recall (Sensitivity): 0.0737
+F1 Balanced Score : 0.1333
+Confusion Matrix Array:
+[[102   3]
+ [ 88   7]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.6300
+Precision Score   : 0.6154
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.6022
+Confusion Matrix Array:
+[[70 35]
+ [39 56]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.6450
+Precision Score   : 0.6818
+Recall (Sensitivity): 0.4737
+F1 Balanced Score : 0.5590
+Confusion Matrix Array:
+[[84 21]
+ [50 45]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 10:07:02.890116
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.5450
+Precision Score   : 0.7000
+Recall (Sensitivity): 0.0737
+F1 Balanced Score : 0.1333
+Confusion Matrix Array:
+[[102   3]
+ [ 88   7]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.6300
+Precision Score   : 0.6154
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.6022
+Confusion Matrix Array:
+[[70 35]
+ [39 56]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.6450
+Precision Score   : 0.6818
+Recall (Sensitivity): 0.4737
+F1 Balanced Score : 0.5590
+Confusion Matrix Array:
+[[84 21]
+ [50 45]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 10:51:25.148836
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.7350
+Precision Score   : 0.6909
+Recall (Sensitivity): 0.8000
+F1 Balanced Score : 0.7415
+Confusion Matrix Array:
+[[71 34]
+ [19 76]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7300
+Precision Score   : 0.7303
+Recall (Sensitivity): 0.6842
+F1 Balanced Score : 0.7065
+Confusion Matrix Array:
+[[81 24]
+ [30 65]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.5250
+Precision Score   : 0.5000
+Recall (Sensitivity): 1.0000
+F1 Balanced Score : 0.6667
+Confusion Matrix Array:
+[[10 95]
+ [ 0 95]]
+----------------------------------------
+Model Architecture: SVM (RBF Kernel)
+Test Accuracy     : 0.6500
+Precision Score   : 0.8378
+Recall (Sensitivity): 0.3263
+F1 Balanced Score : 0.4697
+Confusion Matrix Array:
+[[99  6]
+ [64 31]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 13:34:34.287404
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.7350
+Precision Score   : 0.6909
+Recall (Sensitivity): 0.8000
+F1 Balanced Score : 0.7415
+Confusion Matrix Array:
+[[71 34]
+ [19 76]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7300
+Precision Score   : 0.7303
+Recall (Sensitivity): 0.6842
+F1 Balanced Score : 0.7065
+Confusion Matrix Array:
+[[81 24]
+ [30 65]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.5250
+Precision Score   : 0.5000
+Recall (Sensitivity): 1.0000
+F1 Balanced Score : 0.6667
+Confusion Matrix Array:
+[[10 95]
+ [ 0 95]]
+----------------------------------------
+Model Architecture: SVM (RBF Kernel)
+Test Accuracy     : 0.6500
+Precision Score   : 0.8378
+Recall (Sensitivity): 0.3263
+F1 Balanced Score : 0.4697
+Confusion Matrix Array:
+[[99  6]
+ [64 31]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 14:24:04.476864
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: SVM (RBF Kernel)
+Test Accuracy     : 0.5250
+Precision Score   : 0.0000
+Recall (Sensitivity): 0.0000
+F1 Balanced Score : 0.0000
+Confusion Matrix Array:
+[[105   0]
+ [ 95   0]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 14:30:10.002753
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: SVM (RBF Kernel)
+Test Accuracy     : 0.5250
+Precision Score   : 0.0000
+Recall (Sensitivity): 0.0000
+F1 Balanced Score : 0.0000
+Confusion Matrix Array:
+[[105   0]
+ [ 95   0]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 14:30:31.441541
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: SVM (RBF Kernel)
+Test Accuracy     : 0.7600
+Precision Score   : 0.7374
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.7526
+Confusion Matrix Array:
+[[79 26]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 14:36:19.694609
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: SVM (RBF Kernel)
+Test Accuracy     : 0.7600
+Precision Score   : 0.7374
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.7526
+Confusion Matrix Array:
+[[79 26]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-07 14:36:38.854293
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: SVM (RBF Kernel)
+Test Accuracy     : 0.7600
+Precision Score   : 0.7374
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.7526
+Confusion Matrix Array:
+[[79 26]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:29:01.273746
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.7900
+Precision Score   : 1.0000
+Recall (Sensitivity): 0.5579
+F1 Balanced Score : 0.7162
+Confusion Matrix Array:
+[[105   0]
+ [ 42  53]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:33:04.748170
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8150
+Precision Score   : 0.9265
+Recall (Sensitivity): 0.6632
+F1 Balanced Score : 0.7730
+Confusion Matrix Array:
+[[100   5]
+ [ 32  63]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:33:36.989337
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:33:57.126750
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.7900
+Precision Score   : 0.9492
+Recall (Sensitivity): 0.5895
+F1 Balanced Score : 0.7273
+Confusion Matrix Array:
+[[102   3]
+ [ 39  56]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:34:13.955005
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8450
+Precision Score   : 0.9211
+Recall (Sensitivity): 0.7368
+F1 Balanced Score : 0.8187
+Confusion Matrix Array:
+[[99  6]
+ [25 70]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:35:56.815133
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8050
+Precision Score   : 0.9516
+Recall (Sensitivity): 0.6211
+F1 Balanced Score : 0.7516
+Confusion Matrix Array:
+[[102   3]
+ [ 36  59]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:36:30.323645
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:37:47.292983
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:38:23.292270
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8450
+Precision Score   : 0.9444
+Recall (Sensitivity): 0.7158
+F1 Balanced Score : 0.8144
+Confusion Matrix Array:
+[[101   4]
+ [ 27  68]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:38:49.826297
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8350
+Precision Score   : 0.9306
+Recall (Sensitivity): 0.7053
+F1 Balanced Score : 0.8024
+Confusion Matrix Array:
+[[100   5]
+ [ 28  67]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:39:25.796377
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.7850
+Precision Score   : 0.9815
+Recall (Sensitivity): 0.5579
+F1 Balanced Score : 0.7114
+Confusion Matrix Array:
+[[104   1]
+ [ 42  53]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-08 04:39:45.614777
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 01:59:41.300006
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 02:00:18.014636
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 02:00:46.762085
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 02:06:43.088263
+========================================
+
+
+========================================
+Experiment Run Timestamp: 2026-06-13 02:09:45.330482
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 03:00:52.271457
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+Model Architecture: XGBoost
+Test Accuracy     : 0.9400
+Precision Score   : 0.9462
+Recall (Sensitivity): 0.9263
+F1 Balanced Score : 0.9362
+Confusion Matrix Array:
+[[100   5]
+ [  7  88]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 03:05:21.123420
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+Model Architecture: XGBoost
+Test Accuracy     : 0.9400
+Precision Score   : 0.9462
+Recall (Sensitivity): 0.9263
+F1 Balanced Score : 0.9362
+Confusion Matrix Array:
+[[100   5]
+ [  7  88]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 03:05:42.347948
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+Model Architecture: XGBoost
+Test Accuracy     : 0.9400
+Precision Score   : 0.9462
+Recall (Sensitivity): 0.9263
+F1 Balanced Score : 0.9362
+Confusion Matrix Array:
+[[100   5]
+ [  7  88]]
+----------------------------------------
+
+========================================
+Experiment Run Timestamp: 2026-06-13 03:09:12.155608
+========================================
+
+Model Architecture: Logistic Regression
+Test Accuracy     : 0.8650
+Precision Score   : 0.8696
+Recall (Sensitivity): 0.8421
+F1 Balanced Score : 0.8556
+Confusion Matrix Array:
+[[93 12]
+ [15 80]]
+----------------------------------------
+Model Architecture: KNN
+Test Accuracy     : 0.7900
+Precision Score   : 0.8118
+Recall (Sensitivity): 0.7263
+F1 Balanced Score : 0.7667
+Confusion Matrix Array:
+[[89 16]
+ [26 69]]
+----------------------------------------
+Model Architecture: Linear SVM
+Test Accuracy     : 0.8400
+Precision Score   : 0.8621
+Recall (Sensitivity): 0.7895
+F1 Balanced Score : 0.8242
+Confusion Matrix Array:
+[[93 12]
+ [20 75]]
+----------------------------------------
+Model Architecture: Kernel Perceptron (POLY)
+Test Accuracy     : 0.8550
+Precision Score   : 0.9125
+Recall (Sensitivity): 0.7684
+F1 Balanced Score : 0.8343
+Confusion Matrix Array:
+[[98  7]
+ [22 73]]
+----------------------------------------
+Model Architecture: XGBoost
+Test Accuracy     : 0.9400
+Precision Score   : 0.9462
+Recall (Sensitivity): 0.9263
+F1 Balanced Score : 0.9362
+Confusion Matrix Array:
+[[100   5]
+ [  7  88]]
+----------------------------------------
